@@ -3,8 +3,7 @@ import requests
 import pandas as pd
 import plotly.express as px
 
-API_URL = "http://127.0.0.1:8000/predict"
-
+API_URL = "https://demand-forecasting-system-vm05.onrender.com/predict"
 st.set_page_config(page_title="Demand Intelligence System", layout="wide")
 
 # ------------------- HEADER -------------------
