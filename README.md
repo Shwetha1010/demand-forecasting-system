@@ -36,18 +36,6 @@ User Interface (Streamlit)
 → Prediction Output  
 → Business Recommendation  
 
----
-
-## Project Structure
-demand_forecasting_system/
-│
-├── api/ # FastAPI backend
-├── dashboard/ # Streamlit frontend
-├── src/ # Data processing and modeling logic
-├── models/ # Trained model artifacts
-├── data/ # Dataset files
-├── requirements.txt # Dependencies
-└── README.md
 
 ---
 
